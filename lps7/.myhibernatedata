@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Tue Nov 21 00:31:39 CST 2017
+genBasicCompId=true
+sessionFactoryName=test2.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=false
+keyGenerator=native
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=/lps7/hibernate.reveng.xml
+configFile=/lps7/src/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=clockcatagory.BaseHibernateDAO
